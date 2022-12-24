@@ -1,0 +1,43 @@
+a:active:hover{
+    color: black;
+}
+.head{
+    display: block;
+    
+    margin: -9% auto 30px auto;
+}
+nav{
+    background: white;
+}
+.work p{
+    font-size: 13px;
+}
+.work-img{
+    border-radius: 10px;
+
+}
+.formbox{
+    background: transparent;
+    
+
+}
+.btn{
+    background: #e31e2b;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+.btn:hover{
+    background: #e31e2b;
+}
+.works{
+    background-color: white;
+    border-radius: 10px;
+}
+#contact:hover{
+    background: #dc3545;
+    padding: 10px;
+    border-radius: 4px;
+    
+}

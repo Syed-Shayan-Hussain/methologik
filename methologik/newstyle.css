@@ -1,0 +1,56 @@
+
+a:active:hover{
+    color: black;
+}
+.head{
+    display: block;
+    
+    margin: -18% auto 30px auto;
+}
+nav{
+    background: white;
+}
+#serviceh{
+    font-size: 150px;
+
+}
+#servicep{
+    font-size: 12px;
+}
+.btn{
+    margin-top: 25px;
+    background-color: white;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0px 2px 20px black;
+}
+
+.services{
+    
+    
+    margin: 10px;
+    
+    border: none;
+    box-shadow: 0 0 12px  rgb(160, 160, 160);
+    border-radius: 4px;
+
+    
+}
+.services:hover{
+    transform: scale(1.05);
+    transition: 0.2s ease;
+}
+.services h6{
+    font-size: 20px;
+    padding:10px;
+}
+.services p{
+    font-size: 9px;
+    padding:2px 5px 20px 5px;
+}
+#contact:hover{
+    background: #dc3545;
+    padding: 10px;
+    border-radius: 4px;
+    
+}

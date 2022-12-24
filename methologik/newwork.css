@@ -1,0 +1,12 @@
+a:active:hover{
+    color: black;
+}
+nav{
+    background: white;
+}
+#contact:hover{
+    background: #dc3545;
+    padding: 10px;
+    border-radius: 4px;
+    
+}
